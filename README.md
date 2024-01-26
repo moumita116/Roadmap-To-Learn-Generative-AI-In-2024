@@ -1,6 +1,6 @@
 # Roadmap To Learn Generative AI In 2024
 
-## Prerequisites
+# Prerequisites
 
 ## 1. Python Programming Language -1 Month
 #### Python:
